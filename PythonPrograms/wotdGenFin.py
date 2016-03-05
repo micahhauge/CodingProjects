@@ -1,14 +1,6 @@
 from mechanize import ParseResponse, urlopen, urljoin
-import requests
-import re
 import random
 
-
-hello ethan
-
-#Hello Micah.
-
-yooyooyo
 ###################################################################################################
 
 class word():
