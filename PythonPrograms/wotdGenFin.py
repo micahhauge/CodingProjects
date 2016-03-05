@@ -3,11 +3,10 @@ import requests
 import re
 import random
 
-<<<<<<< HEAD
+
 hello ethan
-=======
+
 #Hello Micah.
->>>>>>> origin/master
 
 ###################################################################################################
 
