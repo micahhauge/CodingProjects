@@ -1,10 +1,13 @@
 from mechanize import ParseResponse, urlopen, urljoin
 import requests
-from lxml import html
 import re
 import random
 
+<<<<<<< HEAD
 hello ethan
+=======
+#Hello Micah.
+>>>>>>> origin/master
 
 ###################################################################################################
 
