@@ -4,6 +4,8 @@ from lxml import html
 import re
 import random
 
+hello ethan
+
 ###################################################################################################
 
 class word():
