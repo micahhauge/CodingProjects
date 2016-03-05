@@ -245,6 +245,7 @@ while fuckMe == True:
 sentence()
 	
 	
+Hi ethan
 
 
 
